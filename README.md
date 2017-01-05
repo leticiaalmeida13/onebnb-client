@@ -1,1 +1,1 @@
-Just a project
+Angular 2 project!
